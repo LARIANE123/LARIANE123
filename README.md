@@ -24,13 +24,21 @@ Web: HTML, CSS, Node.js, Express.js <br>
 Tools: Git, Jupyter Notebook, LaTeX, DataBricks, Palantir <br>
 
 <!-- SECTION: What I Focus On -->
-<h2>📊 What I Focus On</h2>
+<h2> What I Focus On</h2>
 
 <ul>
   <li>Building <b>end-to-end ML systems</b></li>
   <li>Understanding <b>model performance & optimization</b></li>
   <li>Working on <b>real-world datasets and problems</b></li>
   <li>Combining <b>technical depth with business impact</b></li>
+</ul>
+
+<br>
+
+<ul>
+<li>Currently exploring: Advanced ML, Optimization, Reinforcement Learning, LLMs</b></li>
+<li>Strong interest in: AI systems, representation learning, and applied ML </b></li>
+<li>Goal: Work on high-impact AI projects (Tech / Consulting / Startups)</b></li>
 </ul>
 
 <hr>
@@ -40,19 +48,18 @@ Tools: Git, Jupyter Notebook, LaTeX, DataBricks, Palantir <br>
 
 <ul>
   <li>💼 Linkedin: 
-    <a href="https://www.linkedin.com/in/TON-LINKEDIN/" target="_blank">
-      Amine ROUIBI
+    <a href="linkedin.com/in/ali-lariane-76b18a263" target="_blank">
+      Ali LARIANE
     </a>
   </li>
   <li>📧 Email: 
-    <a href="mailto:tonmail@example.com">
-      mohamed-el-amine.rouibi@dauphine.eu
+    <a href="ali.lariane@dauphine.eu">
+      ali.lariane@dauphine.eu
     </a>
   </li>
 </ul>
 
 
-<h2 align="left">Connect with me: linkedin.com/in/ali-lariane-76b18a263 <br> email : ali.lariane@dauphine.eu </h2>
 <p align="left">
 </p>
 
