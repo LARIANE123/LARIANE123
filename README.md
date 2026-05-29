@@ -22,7 +22,7 @@ Web: HTML, CSS, Node.js, Express.js <br>
 Tools: Git, Jupyter Notebook, LaTeX, DataBricks, Palantir <br>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: linkedin.com/in/ali-lariane-76b18a263 </h3>
 <p align="left">
 </p>
 
