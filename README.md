@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Passionate about Artificial Intelligence, Data engineering, Machine Learning, and Deep Learning. I enjoy building models, experimenting with algorithms, and extracting insights from data.</h3>
+<h3 align="center">Passionate about Artificial Intelligence, Data engineering, Machine Learning, and Deep Learning. I enjoy building models, experimenting with algorithms, and extracting insights from data.</h3><br>
 
 Tech Stack
 Languages: Python, Java, C++, C, R, JavaScript, PHP, SQL, Saala
