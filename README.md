@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Passionate about Artificial Intelligence, Data engineering, Machine Learning, software engineering and Deep Learning. I enjoy building models, experimenting with algorithms, and extracting insights from data.</h3><br>
 
+<h1 align="center">Computer science student at Paris Dauphine-PSL University</h1> <br>
+
 <img src="montagnes-et-massifs-montagneux-en-france.jpg" alt="Exemple image">
 
 <h1> Tech Stack </h1><br>
