@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Passionate about Artificial Intelligence, Data engineering, Machine Learning, and Deep Learning. I enjoy building models, experimenting with algorithms, and extracting insights from data.</h3>
 
-🚀 Tech Stack
-Languages: Python, Java, C++, C, R, JavaScript, PHP, SQL
+Tech Stack
+Languages: Python, Java, C++, C, R, JavaScript, PHP, SQL, Saala
 
 ML / AI: PyTorch, TensorFlow (Keras), scikit-learn, Transformers, spaCy
 
@@ -16,7 +16,7 @@ Databases: PostgreSQL, MySQL, SQLite, MongoDB, Neo4j
 
 Web: HTML, CSS, Node.js, Express.js
 
-Tools: Git, Jupyter Notebook, LaTeX
+Tools: Git, Jupyter Notebook, LaTeX, DataBricks, Palantir
 
 
 <h3 align="left">Connect with me:</h3>
