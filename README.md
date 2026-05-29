@@ -2,21 +2,21 @@
 <h3 align="center">Passionate about Artificial Intelligence, Data engineering, Machine Learning, and Deep Learning. I enjoy building models, experimenting with algorithms, and extracting insights from data.</h3><br>
 
 <h1> Tech Stack </h1><br>
-Languages: Python, Java, C++, C, R, JavaScript, PHP, SQL, Saala
+Languages: Python, Java, C++, C, R, JavaScript, PHP, SQL, Saala <br>
 
-ML / AI: PyTorch, TensorFlow (Keras), scikit-learn, Transformers, spaCy
+ML / AI: PyTorch, TensorFlow (Keras), scikit-learn, Transformers, spaCy <br>
 
-Data: NumPy, Pandas, Polars, SciPy, Apache Spark (PySpark)
+Data: NumPy, Pandas, Polars, SciPy, Apache Spark (PySpark) <br>
 
-Reinforcement Learning: Gym, Stable-Baselines3
+Reinforcement Learning: Gym, Stable-Baselines3 <br>
 
-Graph Analysis: NetworkX
+Graph Analysis: NetworkX <br>
 
-Databases: PostgreSQL, MySQL, SQLite, MongoDB, Neo4j
+Databases: PostgreSQL, MySQL, SQLite, MongoDB, Neo4j <br>
 
-Web: HTML, CSS, Node.js, Express.js
+Web: HTML, CSS, Node.js, Express.js <br>
 
-Tools: Git, Jupyter Notebook, LaTeX, DataBricks, Palantir
+Tools: Git, Jupyter Notebook, LaTeX, DataBricks, Palantir <br>
 
 
 <h3 align="left">Connect with me:</h3>
