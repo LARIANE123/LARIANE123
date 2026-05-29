@@ -24,7 +24,7 @@ Web: HTML, CSS, Node.js, Express.js <br>
 Tools: Git, Jupyter Notebook, LaTeX, DataBricks, Palantir <br>
 
 
-<h1 align="left">Connect with me: linkedin.com/in/ali-lariane-76b18a263, ali.lariane@dauphine.eu </h1>
+<h2 align="left">Connect with me: linkedin.com/in/ali-lariane-76b18a263 <br> email : ali.lariane@dauphine.eu </h2>
 <p align="left">
 </p>
 
