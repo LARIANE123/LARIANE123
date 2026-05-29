@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Passionate about Artificial Intelligence, Data engineering, Machine Learning, and Deep Learning. I enjoy building models, experimenting with algorithms, and extracting insights from data.</h3><br>
 
+<img src="https://via.placeholder.com/300](https://github.com/LARIANE123/LARIANE123/blob/main/montagnes-et-massifs-montagneux-en-france.jpg" alt="Exemple image">
+
 <h1> Tech Stack </h1><br>
+
 Languages: Python, Java, C++, C, R, JavaScript, PHP, SQL, Saala <br>
 
 ML / AI: PyTorch, TensorFlow (Keras), scikit-learn, Transformers, spaCy <br>
